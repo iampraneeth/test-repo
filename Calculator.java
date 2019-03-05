@@ -11,4 +11,8 @@ public static void subtarction(int number1, int number 2){
 System.out.println("subtraction="+(number1-number2)); 
     
 }
+public static void multiplication(int number1, int number 2){
+System.out.println("multiplication="+(number1*number2)); 
+    
+}
 }
